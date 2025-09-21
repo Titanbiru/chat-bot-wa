@@ -1,0 +1,3 @@
+npm install whatsapp-web.js qrcode-terminal
+// lalu jalanin
+node bot.js 
